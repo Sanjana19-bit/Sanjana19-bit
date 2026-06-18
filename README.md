@@ -9,7 +9,7 @@
 * 👯 Looking to collaborate on **Open Source and AI-based Projects**
 * 💬 Ask me about **C++, DSA, LeetCode, and Beginner AI Projects**
 * 📫 Reach me at: **(mailto:sanjanamaddheshiya29@gmail.com)**
-* ⚡ Fun fact: I love turning ideas into code and learning new technologies every day!
+* ⚡ Fun fact: I love turning ideas into code and learning new technologies every day.
 
 ## 🌐 Socials:
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2k24.cs1n.2413888@gmail.com) 
