@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hey+There!%2C+I+am+Sanjana+%F0%9F%91%8B;Backend+%26+ML+Developer;Aspiring+DevOps+Engineer;Relentless+debugger+%F0%9F%94%A7+Perpetual+learner+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hey+There!%2C+I+am+Sanjana+%F0%9F%91%8B;DevOps+Engineer;Cloud+%26+Automation+Enthusiast;Deploy+it%2C+monitor+it%2C+automate+it+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -11,7 +11,7 @@
 ```
 ┌──────────────────────────────────────────────┐
 │  ● OPERATIONAL                                │
-│  Status: Building & Learning • Open to work   │
+│  Status: Shipping pipelines • Open to work    │
 └──────────────────────────────────────────────┘
 ```
 
@@ -19,7 +19,7 @@
 
 <a href="https://github.com/Sanjana19-bit">github.com/Sanjana19-bit</a>
 <br/>
-<sub>⚡ CSE Undergrad • 🚀 SIH Finalist • 🔐 Backend + ML</sub>
+<sub>⚙️ DevOps Engineer • ☁️ Cloud & Automation • 🚀 SIH Finalist</sub>
 
 </div>
 
@@ -27,11 +27,11 @@
 
 ```text
 About Me = {
-  "I'm a CSE undergrad who loves turning ideas into working backend systems.",
-  "Comfortable with Python, C++, and building APIs with FastAPI + MongoDB.",
-  "Currently expanding into DevOps — Linux, Docker, CI/CD, and cloud.",
-  "I am more than a student; I am a builder, a problem solver, and a learner.",
-  "Let's build reliable, well-engineered software together. ✨"
+  "I'm a DevOps Engineer who cares about how software ships, runs, and scales.",
+  "Hands-on with Docker, Kubernetes, CI/CD pipelines, Linux, Terraform, and AWS.",
+  "I automate the boring stuff so systems stay reliable and deployable on demand.",
+  "I am more than a student; I am someone who builds pipelines and ships infra.",
+  "Let's build systems that don't wake anyone up at 3AM. ✨"
 }
 ```
 
@@ -42,32 +42,23 @@ About Me = {
 ### 🛠️ Skill Set
 
 <table>
-<tr><td align="center" colspan="6"><b>Languages & Core</b></td></tr>
+<tr><td align="center" colspan="6"><b>DevOps & Cloud</b></td></tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=py" width="48"/><br/>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>C++</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/>C</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code</td>
-</tr>
-<tr><td align="center" colspan="6"><b>Backend & Data</b></td></tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>FastAPI</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" width="48"/><br/>Scikit-learn</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=jupyter" width="48"/><br/>Jupyter</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>Postman</td>
-</tr>
-<tr><td align="center" colspan="6"><b>DevOps — Currently Learning 🚧</b></td></tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>K8s</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>Kubernetes</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/>AWS</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>CI/CD</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=terraform" width="48"/><br/>Terraform</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux</td>
+</tr>
+<tr><td align="center" colspan="6"><b>Scripting & Tools</b></td></tr>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=py" width="48"/><br/>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bash" width="48"/><br/>Shell</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code</td>
 </tr>
 </table>
 
@@ -92,12 +83,11 @@ About Me = {
 
 ### 🏗️ Featured Project
 
-**[SAMARTH Portal](https://github.com/Sanjana19-bit/SAMARTH-Portal)** &nbsp;`Python` `FastAPI` `MongoDB` `React` `XGBoost`
+**[SAMARTH Portal](https://github.com/Sanjana19-bit/SAMARTH-Portal)** &nbsp;`Python` `MongoDB` `XGBoost`
 
 > AI-powered internship allocation platform — built during Smart India Hackathon (Finalist)
-- FastAPI backend + React frontend + MongoDB database
-- XGBoost model recommending internships from student profile & interests
-- REST APIs for recommendations, applications & admin allocation
+- Designed the data layer and ML recommendation pipeline (XGBoost) behind the platform
+- REST APIs powering recommendations, applications & admin allocation
 - 🏆 Selected as Finalist among national-level teams — SIH 2024/2025
 
 ---
@@ -106,7 +96,7 @@ About Me = {
 
 <div align="center">
 
-![SIH Finalist](https://img.shields.io/badge/Smart%20India%20Hackathon-Finalist-brightgreen?style=for-the-badge&logo=data:image/png;base64,)
+![SIH Finalist](https://img.shields.io/badge/Smart%20India%20Hackathon-Finalist-brightgreen?style=for-the-badge)
 ![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-3★%20Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 
@@ -131,6 +121,6 @@ About Me = {
 
 <br/><br/>
 
-<i>🤝 Open to internships & collaborations in Backend Development, DevOps, and Cloud Engineering.</i>
+<i>🤝 Open to internships & collaborations in DevOps, Cloud Engineering, and Infrastructure Automation.</i>
 
 </div>
