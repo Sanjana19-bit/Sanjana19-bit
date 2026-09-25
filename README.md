@@ -90,7 +90,7 @@ AI-powered internship allocation platform — FastAPI backend, React frontend, M
 
 A platform-style project for managing and tracking airdrop-related workflows end-to-end.
 
-`Add tech stack here`
+
 
 </td>
 <td width="33%" valign="top">
@@ -99,7 +99,7 @@ A platform-style project for managing and tracking airdrop-related workflows end
 
 A detection system that identifies sleep/drowsiness state and triggers an alarm — combining sensing logic with an ML/rule-based detection approach.
 
-`Add tech stack here`
+
 
 </td>
 </tr>
